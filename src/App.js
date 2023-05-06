@@ -78,7 +78,7 @@ const App = () => {
         showtime={showtime}
         showLinks={showLinks}
         movieId={movieId}
-        time={time12}
+        time12={time12}
         apiData={apiData}
       />
     </div>

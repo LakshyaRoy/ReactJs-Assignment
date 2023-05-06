@@ -53,7 +53,7 @@ const MovieSummary = ({
                 </li>
 
                 <li> Status:-{showStatus || "No Data Found"}</li>
-                <li>Day:- {showSchedule || "No Data Found"}</li>
+                <li>Day:- {showSchedule ? showSchedule : "No Data Found"}</li>
 
                 <li>
                   Time:-
