@@ -3,7 +3,7 @@
 To get started with this project, simply visit the website at 
 https://incredible-babka-1a0aad.netlify.app/
 
-This repository contains the source code and assets for a React-based Single Page Application (SPA) that allows users to select TV shows, view detailed information about them, and book movie tickets.
+This repository contains the source code and assets for a React-based **Single Page Application (SPA)** that allows users to select TV shows, view detailed information about them, and book movie tickets.
 ## Feature
 - TV Show List: Displays a list of available TV shows.
 - Show Details: Provides detailed information about a selected TV show, including the show name, description, cast, and rating.
